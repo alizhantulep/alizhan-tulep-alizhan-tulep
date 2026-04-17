@@ -15,9 +15,9 @@ I am an **Information Systems** student at the **Kazakh-British Technical Univer
 - **Data Science:** Solid foundation in Calculus, Linear Algebra, and Statistics.
 
 ### 📊 GitHub Stats
-![Alizhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_ЛОГИН&layout=compact&theme=radical)
+![Alizhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alizhantulep&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alizhantulep&layout=compact&theme=radical)
 
 ### 📫 How to reach me:
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/ТВОЙ_ПРОФИЛЬ)
-- **Email:** (ТВОЙ_ОСНОВНОЙ_EMAIL)
+- **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/alizhan-tulep-3a6138279Ь)
+- **Email:** (fcmixmen@gmail.com)
