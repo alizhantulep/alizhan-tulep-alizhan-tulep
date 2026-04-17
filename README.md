@@ -13,6 +13,9 @@ I am an **Information Systems** student at the **Kazakh-British Technical Univer
 - **Mobile:** Learning Flutter/Dart.
 - **Databases:** PostgreSQL (Deep understanding of relational schemas & optimization).
 - **Data Science:** Solid foundation in Calculus, Linear Algebra, and Statistics.
+- **Algorithms & Data Structures:** A-
+- **Databases:** A-
+- **Programming Principles:** A
 
 ### 📊 GitHub Stats
 ![Alizhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alizhantulep&show_icons=true&theme=radical)
