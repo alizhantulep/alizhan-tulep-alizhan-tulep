@@ -1,5 +1,8 @@
 # Hi, I'm Alizhan! 👋
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Alizhan%20Tulep&fontSize=80&animation=fadeIn" />
+</p>
 > Information Systems Student @ **KBTU** | Future Data Scientist
 
 ### 🚀 About Me
