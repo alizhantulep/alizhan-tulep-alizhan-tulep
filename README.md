@@ -70,3 +70,5 @@
 
 ### ✍️ Dev Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![Visitors](https://komarev.com/ghpvc/?username=alizhantulep&color=blueviolet&style=flat-square)
